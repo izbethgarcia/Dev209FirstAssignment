@@ -160,11 +160,11 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #9bf1ff !important;
+			color: #ff9be4 !important;
 		}
 
 		a:active {
-			color: #53e3fb !important;
+			color: #fb53d7 !important;
 		}
 
 	strong, b {
@@ -2831,23 +2831,23 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #6fc3df;
+				background-color: #ff4ccfcf;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #8d82c4;
+				background-color: #cf1c1c;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #ec8d81;
+				background-color: #6fc8f2;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
-				background-color: #e7b788;
+				background-color: rgba(137, 34, 34, 0.753);
 			}
 
 			.tiles article:nth-child(6n - 1):before {
-				background-color: #8ea9e8;
+				background-color: rgba(26, 7, 7, 0.918);
 			}
 
 			.tiles article:nth-child(6n):before {
